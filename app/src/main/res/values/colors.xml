@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#00A99A</color>
+    <color name="brand_ink">#0B7268</color>
+    <color name="brand_deep">#063F3A</color>
+    <color name="brand_wash">#E6F6F4</color>
+    <color name="ink">#14201F</color>
+    <color name="mute">#5C696D</color>
+    <color name="line">#DCE5E4</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="bg">#F4F7F7</color>
+    <color name="danger">#B23422</color>
+    <color name="danger_wash">#FCEBE8</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Eden Cost Control</string>
+    <string name="welcome">أهلاً بعودتك</string>
+    <string name="subtitle">نظام المخازن والكوست كنترول — جزيرة عدن</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="password">كلمة المرور</string>
+    <string name="remember">تذكرني على هذا الجهاز</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_bio">الدخول بالبصمة / الوجه</string>
+    <string name="server">عنوان الخادم</string>
+    <string name="forgot">نسيت كلمة المرور؟</string>
+    <string name="secure">اتصال مشفّر · يُقفل الحساب مؤقتاً بعد 5 محاولات خاطئة</string>
+    <string name="powered">Powered by Yasser Ahmed</string>
+    <string name="offline_title">لا يوجد اتصال</string>
+    <string name="offline_msg">تأكد من اتصالك بالإنترنت ثم أعد المحاولة. البيانات التي كتبتها محفوظة على الجهاز.</string>
+    <string name="retry">إعادة المحاولة</string>
+</resources>
